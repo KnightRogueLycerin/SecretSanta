@@ -1,0 +1,6 @@
+# as first symbol means the row will be ignored
+# Start of roster
+Person Perssonson
+Name MacNamly
+# This line is ignored
+Nick Ricards

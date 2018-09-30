@@ -1,0 +1,5 @@
+Doer	->	Receiver
+
+Person Perssonson	->	Name MacNamly
+Nick Ricards	->	Person Perssonson
+Name MacNamly	->	Nick Ricards
