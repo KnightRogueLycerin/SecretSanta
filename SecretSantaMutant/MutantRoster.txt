@@ -1,8 +1,0 @@
-# the '#' symbol means the row will be ignored
-# Start of rosterAldon
-Gertrud
-Kwarg
-Japp
-Squid
-Twix
-# end of roster
