@@ -1,6 +1,7 @@
-# as first symbol means the row will be ignored
 # Start of roster
-Person Perssonson
-Name MacNamly
-# This line is ignored
-Nick Ricards
+Kristin Warfgrir (Johan)
+Gertrud Myr (Emelie)
+Aldon (Lydia)
+Japp Mer (Patrik)
+Squid (Pontus)
+Twix Mer (Chris)

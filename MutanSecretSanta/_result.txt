@@ -1,5 +1,8 @@
 Doer	->	Receiver
 
-Person Perssonson	->	Name MacNamly
-Nick Ricards	->	Person Perssonson
-Name MacNamly	->	Nick Ricards
+Twix Mer (Chris)	->	Squid (Pontus)
+Gertrud Myr (Emelie)	->	Twix Mer (Chris)
+Aldon (Lydia)	->	Gertrud Myr (Emelie)
+Japp Mer (Patrik)	->	Aldon (Lydia)
+Kristin Warfgrir (Johan)	->	Japp Mer (Patrik)
+Squid (Pontus)	->	Kristin Warfgrir (Johan)
